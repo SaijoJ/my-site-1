@@ -90,9 +90,10 @@ header a:hover{
     font-size:55px;
     margin-bottom: :10px;
 }
-@media screen and(max-width:480px){
+@media screen and (max-width:480px){
     #showcase h1{
-        font-size:30px;
+        font-size:40px;
+        line-height:1;
     }
 }
 #showcase p{
